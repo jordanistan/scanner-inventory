@@ -1,0 +1,57 @@
+.
+├── dashboard.py
+├── directory_inventory.csv
+├── directory_inventory.example.csv
+├── directory_inventory.original.py
+├── directory_inventory.py
+├── generate_test_data.py
+├── output
+│   └── directory_inventory_2025-02-15_13-57-52.csv
+└── test-data
+    ├── child_folder_1
+    │   ├── file_10.txt
+    │   ├── file_1.txt
+    │   ├── file_2.txt
+    │   ├── file_3.txt
+    │   ├── file_4.txt
+    │   ├── file_5.txt
+    │   ├── file_6.txt
+    │   ├── file_7.txt
+    │   ├── file_8.txt
+    │   └── file_9.txt
+    ├── child_folder_2
+    │   ├── file_10.txt
+    │   ├── file_1.txt
+    │   ├── file_2.txt
+    │   ├── file_3.txt
+    │   ├── file_4.txt
+    │   ├── file_5.txt
+    │   ├── file_6.txt
+    │   ├── file_7.txt
+    │   ├── file_8.txt
+    │   └── file_9.txt
+    ├── child_folder_3
+    │   ├── file_10.txt
+    │   ├── file_1.txt
+    │   ├── file_2.txt
+    │   ├── file_3.txt
+    │   ├── file_4.txt
+    │   ├── file_5.txt
+    │   ├── file_6.txt
+    │   ├── file_7.txt
+    │   ├── file_8.txt
+    │   └── file_9.txt
+    ├── file_10.txt
+    ├── file_1.txt
+    ├── file_2.txt
+    ├── file_3.txt
+    ├── file_4.txt
+    ├── file_5.txt
+    ├── file_6.txt
+    ├── file_7.txt
+    ├── file_8.txt
+    ├── file_9.txt
+    └── output
+        └── directory_inventory_2025-02-15_13-57-52.csv
+
+7 directories, 48 files
